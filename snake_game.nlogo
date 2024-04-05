@@ -9,7 +9,8 @@
 ;;  from http://bert.stuy.edu/pbrooks/fall2020/materials/intro-year-1/Snake-simple.html
 ;;    [accessed 16 November 2023].                                        ;;
 ;;                                                                        ;;
-;; Don't forget to appropriately reference the resources you use!         ;;
+;; Don't forget to appropriately reference the resources you use!
+;; 05/04 2024 added to github
 ;;                                                                        ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
